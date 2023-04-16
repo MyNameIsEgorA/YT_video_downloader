@@ -1,5 +1,4 @@
 # YT_video_downloader
-There is a simple app that you can use to download videos from yt
 
 
 Для того, чтобы начать пользоваться нужно установить программу, которая заканчивается на .exe и запустить ее. 
